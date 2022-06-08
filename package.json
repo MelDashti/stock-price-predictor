@@ -1,0 +1,25 @@
+{
+  "name": "stock-price-predictor",
+  "version": "1.0.0",
+  "description": "Stock and crypto price prediction using Twitter data!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelDashti/stock-price-predictor.git"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "author": "Milad Dashti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelDashti/stock-price-predictor/issues"
+  },
+  "homepage": "https://github.com/MelDashti/stock-price-predictor#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
